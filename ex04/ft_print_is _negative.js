@@ -6,3 +6,4 @@ function displaySign(n) {
     }
   }
   
+  displaySign(-5);
