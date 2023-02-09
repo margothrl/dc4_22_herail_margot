@@ -1,6 +1,6 @@
-function printNumbers() {
+function showNumbers() {
     let numbers = "0123456789";
     console.log(numbers);
   }
   
-  printNumbers();
+   showNumbers();

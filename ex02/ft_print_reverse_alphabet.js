@@ -1,7 +1,7 @@
-function printAlphabet() {
+function showAlphabetReverse() {
     let alphabet = "zyxwvutsrqponmlkjihgfedcba";
     console.log(alphabet);
   }
   
-  printAlphabet();
+  showAlphabetReverse();
   
