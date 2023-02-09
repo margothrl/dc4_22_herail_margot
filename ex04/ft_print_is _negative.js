@@ -5,5 +5,3 @@ function displaySign(n) {
       console.log("P");
     }
   }
-  
-  displaySign(-5);
